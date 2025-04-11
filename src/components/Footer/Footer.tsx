@@ -50,7 +50,7 @@ const Footer: React.FC = () => {
         <div className="flex space-x-3 sm:space-x-4 items-center text-gray-400 order-3">
           {/* DexScreener Logo */}
           <a
-            href="https://dexscreener.com"
+            href="https://dexscreener.com/solana/2kmaztm1rtantmjjco9qjhehjgv83aqurwzjmtdzjpc4"
             className="social-link flex items-center"
             target="_blank"
             rel="noopener noreferrer"
