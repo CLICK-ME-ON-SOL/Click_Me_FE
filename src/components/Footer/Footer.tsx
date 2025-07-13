@@ -69,7 +69,7 @@ const Footer: React.FC = () => {
           
           {/* X (Twitter) */}
           <a
-            href="https://x.com/ClickMe_app"
+            href="https://x.com/clickfactory_io"
             className="social-link flex items-center"
             target="_blank"
             rel="noopener noreferrer"
@@ -84,7 +84,7 @@ const Footer: React.FC = () => {
           
           {/* Telegram */}
           <a
-            href="https://t.me/ClickMePortal"
+            href="https://t.me/clickfactory_io"
             className="social-link flex items-center"
             target="_blank"
             rel="noopener noreferrer"
